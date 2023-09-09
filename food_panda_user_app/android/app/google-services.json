@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "475979426834",
+    "project_id": "foodpanda-clone-app-e5817",
+    "storage_bucket": "foodpanda-clone-app-e5817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475979426834:android:f74c07f3e40d5706a43ccb",
+        "android_client_info": {
+          "package_name": "com.hazem.food_panda_Riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475979426834-7ivsg5drfj4n9sktbc3g5v0hbuukaa56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQAnTqm-YIumW5QEehTpoUUDEJx_HUnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475979426834-7ivsg5drfj4n9sktbc3g5v0hbuukaa56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475979426834:android:f7bf3a13d0d8a9b7a43ccb",
+        "android_client_info": {
+          "package_name": "com.hazem.food_panda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475979426834-7ivsg5drfj4n9sktbc3g5v0hbuukaa56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQAnTqm-YIumW5QEehTpoUUDEJx_HUnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475979426834-7ivsg5drfj4n9sktbc3g5v0hbuukaa56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475979426834:android:ab32db7fc8bc1355a43ccb",
+        "android_client_info": {
+          "package_name": "com.hazem.food_panda_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475979426834-7ivsg5drfj4n9sktbc3g5v0hbuukaa56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQAnTqm-YIumW5QEehTpoUUDEJx_HUnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475979426834-7ivsg5drfj4n9sktbc3g5v0hbuukaa56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
